@@ -1,0 +1,76 @@
+# Arquivos de compilação e DLLs
+bin/
+obj/
+*.exe
+*.dll
+
+# Arquivos temporários
+[Tt]emp/
+[Vv]isual[Ss]tudio[Ss]tate/
+
+# Arquivos de projeto
+*.user
+*.users
+*.suo
+*. suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de configuração
+*.log
+*.config
+Web.config
+App.config
+
+# Arquivos de publicação
+_PublishedWebsites/
+Publish/
+*.publish.xml
+*.pubxml
+*.publishproj
+
+# Arquivos de análise e relatórios
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.iobj
+*.ipdb
+*.pdb
+*.log
+*.vspscc
+*.vssscc
+.vs2019/
+.vscode/
+
+# Diretórios de saída
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Ll]og/
+[Ll]ogs/
+
+# Diretórios de arquivos de dados
+[Dd]ata/
+[Ll]ib/
+[Ll]ogs/
+
+# Arquivos de compilação Unity
+Temp/
+*.apk
+*.unitypackage
+*.gradle
+Library/
+
+# Ferramentas Xamarin
+ios/
+android/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
